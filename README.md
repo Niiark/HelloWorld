@@ -1,13 +1,13 @@
 # Application de programme sportif hebdomadaire
 
-Cette application utilise [Streamlit](https://streamlit.io/) pour permettre la gestion d'un programme sportif sur la semaine.
+Cette application utilise [Streamlit](https://streamlit.io/) pour gérer un planning d'entraînement. Un programme type est préchargé et chaque exercice peut être modifié ou marqué comme effectué.
 
 ## Fonctionnalités
 
-- Ajout d'exercices pour chaque jour de la semaine.
-- Visualisation rapide du programme prévu.
-- Suivi des performances avec saisie de la date et d'une valeur (poids, distance, etc.).
-- Affichage sous forme de tableau et de graphique de l'évolution des performances.
+- Programme HIIT et renforcement chargé par défaut.
+- Ajout ou modification d'exercices pour chaque jour.
+- Marquage d'un exercice comme *fait* pour suivre l'avancement.
+- Tableau de suivi des exercices réalisés.
 
 ## Lancer l'application
 
